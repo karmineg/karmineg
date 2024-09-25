@@ -12,12 +12,9 @@ Sou estudante de Ciência da Computação no IFSUL, campus Passo Fundo. Busco co
   - Flutter <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg">
   - C/C++ <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg">
 
-## Experiência Profissional 📈
-
-Já fui bolsista no IFSUL em um projeto voltado para programação em Flutter, desenvolvendo aplicativos no Android Studio. Essa experiência me ajudou a aprofundar meus conhecimentos em desenvolvimento mobile e me tornou mais familiarizado com as práticas de programação.
-
 ## Sobre Mim 🌟
 
+- Já fui bolsista no IFSUL em um projeto voltado para programação em Flutter, desenvolvendo aplicativos no Android Studio. Essa experiência me ajudou a aprofundar meus conhecimentos em desenvolvimento mobile e me tornou mais familiarizado com as práticas de programação.
 - Estou sempre buscando novos desafios e aprendizados na área de tecnologia.
 - Acredito na importância da colaboração e do compartilhamento de conhecimento.
 
